@@ -18,7 +18,7 @@
     "mongodb": "^3.5.3",
     "mongoose": "^5.9.2",
     "morgan": "~1.9.1",
-    "socket.io": "^2.3.0",
+    "socket.io": "^2.5.0",
     "socket.io-client": "latest",
     "utf-8-validate": "^5.0.2",
     "dotenv": "^8.2.0"
